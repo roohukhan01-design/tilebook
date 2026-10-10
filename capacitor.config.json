@@ -1,0 +1,9 @@
+{
+  "appId": "com.roohu.tilebook",
+  "appName": "TileBook",
+  "webDir": "www",
+  "backgroundColor": "#0a1214",
+  "android": {
+    "backgroundColor": "#0a1214"
+  }
+}
